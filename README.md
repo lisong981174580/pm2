@@ -13,7 +13,7 @@ apps:
       PORT: 8888
 ```
 ### 启动
-> pm2  start  pm2.yel --env  production 
+> pm2  start  pm2.yml --env  production 
 
 ### 重启
 > pm2 restart  vue-todo
